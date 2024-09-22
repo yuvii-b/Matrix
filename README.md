@@ -1,3 +1,3 @@
 # Matrix
 
-## Java code to find the adjoint of a 3x3 Matrix.
+## Repository containing Java code for performing various matrix operations.
